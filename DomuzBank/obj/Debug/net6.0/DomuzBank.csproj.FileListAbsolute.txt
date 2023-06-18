@@ -1,0 +1,15 @@
+C:\Users\tuozm\OneDrive\Masaüstü\a\a\DomuzBank\bin\Debug\net6.0\DomuzBank.exe
+C:\Users\tuozm\OneDrive\Masaüstü\a\a\DomuzBank\bin\Debug\net6.0\DomuzBank.deps.json
+C:\Users\tuozm\OneDrive\Masaüstü\a\a\DomuzBank\bin\Debug\net6.0\DomuzBank.runtimeconfig.json
+C:\Users\tuozm\OneDrive\Masaüstü\a\a\DomuzBank\bin\Debug\net6.0\DomuzBank.dll
+C:\Users\tuozm\OneDrive\Masaüstü\a\a\DomuzBank\bin\Debug\net6.0\DomuzBank.pdb
+C:\Users\tuozm\OneDrive\Masaüstü\a\a\DomuzBank\obj\Debug\net6.0\DomuzBank.csproj.AssemblyReference.cache
+C:\Users\tuozm\OneDrive\Masaüstü\a\a\DomuzBank\obj\Debug\net6.0\DomuzBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuozm\OneDrive\Masaüstü\a\a\DomuzBank\obj\Debug\net6.0\DomuzBank.AssemblyInfoInputs.cache
+C:\Users\tuozm\OneDrive\Masaüstü\a\a\DomuzBank\obj\Debug\net6.0\DomuzBank.AssemblyInfo.cs
+C:\Users\tuozm\OneDrive\Masaüstü\a\a\DomuzBank\obj\Debug\net6.0\DomuzBank.csproj.CoreCompileInputs.cache
+C:\Users\tuozm\OneDrive\Masaüstü\a\a\DomuzBank\obj\Debug\net6.0\DomuzBank.dll
+C:\Users\tuozm\OneDrive\Masaüstü\a\a\DomuzBank\obj\Debug\net6.0\refint\DomuzBank.dll
+C:\Users\tuozm\OneDrive\Masaüstü\a\a\DomuzBank\obj\Debug\net6.0\DomuzBank.pdb
+C:\Users\tuozm\OneDrive\Masaüstü\a\a\DomuzBank\obj\Debug\net6.0\DomuzBank.genruntimeconfig.cache
+C:\Users\tuozm\OneDrive\Masaüstü\a\a\DomuzBank\obj\Debug\net6.0\ref\DomuzBank.dll
